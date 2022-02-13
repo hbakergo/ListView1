@@ -1,12 +1,12 @@
 <resources>
     <string name="app_name">ListView</string>
-    <string name="joao">João</string>
-    <string name="maria">Maria</string>
-    <string name="pedro">Pedro</string>
-    <string name="saulo">Saulo</string>
-    <string name="lucas">Lucas</string>
-    <string name="silva">Silva</string>
-    <string name="joana">Joana</string>
-    <string name="alexandre">Alexandre</string>
+    <string name="tony">Tony</string>
+    <string name="bruce">Bruce</string>
+    <string name="steve">Steve</string>
+    <string name="diana">Diana</string>
+    <string name="natasha">Natasha</string>
+    <string name="clark">Clark</string>
+    <string name="nick">Nich</string>
+    <string name="barry">Barry</string>
     <string name="foi_clicado">" foi clicado!"</string>
 </resources>

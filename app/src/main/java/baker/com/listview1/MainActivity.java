@@ -43,14 +43,14 @@ public class MainActivity extends AppCompatActivity {
     private void popularLista(){
         ArrayList<String> nomes = new ArrayList<>();
 
-        nomes.add(getString(R.string.joao));
-        nomes.add(getString(R.string.maria));
-        nomes.add(getString(R.string.pedro));
-        nomes.add(getString(R.string.saulo));
-        nomes.add(getString(R.string.lucas));
-        nomes.add(getString(R.string.silva));
-        nomes.add(getString(R.string.joana));
-        nomes.add(getString(R.string.alexandre));
+        nomes.add(getString(R.string.tony));
+        nomes.add(getString(R.string.bruce));
+        nomes.add(getString(R.string.steve));
+        nomes.add(getString(R.string.diana));
+        nomes.add(getString(R.string.natasha));
+        nomes.add(getString(R.string.clark));
+        nomes.add(getString(R.string.nick));
+        nomes.add(getString(R.string.barry));
 
         //ArrayAdapter está sendo usado para mostrar textos
         ArrayAdapter<String> adapter =
